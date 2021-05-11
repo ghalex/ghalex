@@ -1,4 +1,11 @@
+
 ### Hi there 👋
+
+Hi! I’m @ghalex, a frontend geek, entrepreneur, and father of two sons.
+
+I love to write { code }, checkout my blog to find out more about me https://ghalex.com
+
+<img src="https://github-readme-stats.vercel.app/api?username=ghalex&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true" />
 
 <!--
 **ghalex/ghalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
