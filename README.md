@@ -1,7 +1,8 @@
 
 ### Hi there 👋
 
-Hi! I’m @ghalex, a frontend geek, entrepreneur, and father of two sons.
+Hi! I’m @ghalex, an experienced engineer, entrepreneur, and father of two. 
+Passionate about open source, generative AI, and innovative problem-solving.
 
 I love to write { code }, checkout my blog to find out more about me https://ghalex.com
 
