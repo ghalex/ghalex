@@ -59,16 +59,7 @@ Currently building AI-driven platforms and developer tools.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=ghalex&show_icons=true&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
+![GitHub Contribution Graph](https://ghchart.rshah.org/ghalex)
 ---
-
-## ✍️ Writing & Blog
-
-👉 https://ghalex.com
-
-I write about:
-
-- AI archit
