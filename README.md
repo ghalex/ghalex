@@ -1,7 +1,7 @@
 # Hi, I'm Alex (ghalex) 👋
 
-📍 Romania 🇷🇴 | 🤖 AI-First Engineer & Builder | 🚀 Founder @ LogzAI  
-👨‍👦 Father of two | 🧠 Generative AI • Distributed Systems • Observability
+🚀 Founder @ LogzAI | 🤖 AI-First Engineer & Builder  
+🧠 Generative AI • Distributed Systems • Observability
 
 > I design and build AI-native platforms, developer tools, and scalable systems.
 > Passionate about open source, experimentation, and solving real problems with { code }.
@@ -36,6 +36,9 @@ Currently building AI-driven platforms and developer tools.
   A Clojure-inspired language designed to build trading automation systems.
 
 ### 🧩 Platforms & Products
+
+- 🚀 **[LogzAI](https://logzai.com)**  
+  AI observability and log intelligence platform focused on LLM tracing, structured logging, and AI-native developer workflows.
 
 - 🚀 **[Zapant](https://zapant.com)**  
   Automation platform for building trading strategies and tools.
